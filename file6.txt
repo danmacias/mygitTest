@@ -1,1 +1,2 @@
 se crean cambios para nuevo push
+se hace pull a rma git2
